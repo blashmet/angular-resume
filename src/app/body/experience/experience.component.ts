@@ -13,7 +13,7 @@ export class ExperienceComponent implements OnInit {
 
   ngOnInit() {
 
-    this.positions = ['network admin', 'devops engineer', 'cloud engineer', 'CEO'];
+    this.positions = ['Cloud Engineer', 'DevOps Engineer', 'Network Administrator', 'Freelance IT Technician'];
 
   }
 
